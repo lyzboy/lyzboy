@@ -10,8 +10,25 @@ I'm a passionate game developer and web enthusiast based in the US. You'll often
 
 💬 Ask me about anything related to Unity game development, web development, or my experiences with programming languages like C#, HTML, CSS, and JavaScript. I can talk about Blender for hours too!
 
-📫 You can reach me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+📫 You can reach me via [email](mailto:lyzstudios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sanford-98619085).
 
 😄 Fun fact: I love taking a break from coding to create digital art, and I'm a big fan of indie games.
 
 ⚡ Let's code, create, and conquer the digital world together! 🚀
+
+
+### My Programming Toolkit 🛠️
+
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
