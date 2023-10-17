@@ -17,6 +17,10 @@ I'm a passionate game developer and web enthusiast based in the US. You'll often
 ⚡ Let's code, create, and conquer the digital world together! 🚀
 
 
+### Profile Links
+![Codewars] (https://www.codewars.com/users/lyzboy)
+
+
 ### My Programming Toolkit 🛠️
 
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp)
