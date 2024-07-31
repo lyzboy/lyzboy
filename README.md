@@ -10,7 +10,7 @@ I'm a passionate game developer and web enthusiast based in the US. You'll often
 
 💬 Ask me about anything related to Unity game development, web development, or my experiences with programming languages like C#, HTML, CSS, and JavaScript. I can talk about Blender for hours too!
 
-📫 You can reach me via [email](mailto:lyzstudios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sanford-98619085).
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sanford-98619085).
 
 😄 Fun fact: I love taking a break from coding to create digital art, and I'm a big fan of indie games.
 
