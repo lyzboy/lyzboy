@@ -1,14 +1,14 @@
 # Hi there, I'm Josh! 👋
 
-I'm a passionate game developer and web enthusiast based in the US. You'll often find me diving into Unity to craft interactive gaming experiences, or tinkering with web technologies to create dynamic and modern websites. When I'm not coding, I enjoy expressing my creativity through art using Procreate and Blender.
+I'm a passionate game developer, web developer, and mechanical drafter based in the US. You'll often find me diving into Unity to craft interactive gaming experiences, or tinkering with web technologies to create dynamic and modern websites. When I'm not coding, I enjoy expressing my creativity through art using Procreate and Blender.
 
-🎮 Currently, I'm working on exciting game projects in Unity, striving to bring unique gaming experiences to life.
+🎮 Currently, I'm working on exciting game projects in GODOT and Unity, striving to bring unique gaming experiences to life.
 
 🌱 I'm always eager to learn and expand my skillset. Right now, I'm focused on improving my Spanish (¡Hola!) and exploring the depths of web development, including technologies like MongoDB, Node.js, Express.js, and React.
 
-🤝 I'm open to collaboration opportunities, especially in game development. If you have a cool project in mind or need assistance with coding challenges, feel free to reach out!
+🤝 I'm open to collaboration opportunities, especially in game development and web development. If you have a cool project in mind or need assistance with coding challenges, feel free to reach out!
 
-💬 Ask me about anything related to Unity game development, web development, or my experiences with programming languages like C#, HTML, CSS, and JavaScript. I can talk about Blender for hours too!
+💬 Ask me about anything related to GODOT or Unity game development, web development, or my experiences with programming languages like C#, HTML, CSS, and JavaScript. I can talk about Blender for hours too!
 
 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sanford-98619085).
 
