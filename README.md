@@ -1,40 +1,47 @@
-# Hi there, I'm Josh! 👋
+# Hi there, I'm Josh! 👋 (@lyzboy)
+I'm a Full Stack Developer with a passion for creating robust web applications and immersive game experiences under the banner of __Lyz Studios__. My expertise lies in the __PERN stack__ (PostgreSQL, Express, React, Node.js) and __Next.js__, but I'm also deeply involved in game development with __Godot__ and __C#__.
 
-I'm a passionate game developer, web developer, and mechanical drafter based in the US. You'll often find me diving into Unity to craft interactive gaming experiences, or tinkering with web technologies to create dynamic and modern websites. When I'm not coding, I enjoy expressing my creativity through art using Procreate and Blender.
+When I'm not coding, I enjoy 3D modeling, managing my home server, and running Dungeons & Dragons campaigns.
 
-🎮 Currently, I'm working on exciting game projects in GODOT and Unity, striving to bring unique gaming experiences to life.
+🔭 __I’m currently working on:__
 
-🌱 I'm always eager to learn and expand my skillset. Right now, I'm focused on improving my Spanish (¡Hola!) and exploring the depths of web development, including technologies like MongoDB, Node.js, Express.js, and React.
+- Developing "Rigs", an ambitious game built with the Godot engine.
+- Building a full-featured personal budgeting web application.
+- Creating and managing a website for the Rivers Karate dojo.
 
-🤝 I'm open to collaboration opportunities, especially in game development and web development. If you have a cool project in mind or need assistance with coding challenges, feel free to reach out!
+🌱 __I’m currently learning:__
 
-💬 Ask me about anything related to GODOT or Unity game development, web development, or my experiences with programming languages like C#, HTML, CSS, and JavaScript. I can talk about Blender for hours too!
+- Advanced full-stack development patterns in Next.js.
+- Best practices for containerization and orchestration with Docker.
+- Continuing to improve my Spanish language skills.
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sanford-98619085).
+🤝 __I’m looking to collaborate on:__
 
-😄 Fun fact: I love taking a break from coding to create digital art, and I'm a big fan of indie games.
+- Open-source web applications or game development projects. If you have an interesting idea, let's connect!
 
-⚡ Let's code, create, and conquer the digital world together! 🚀
+💬 __Ask me about:__
 
+- The PERN / Next.js stacks, TypeScript, and building RESTful APIs.
+- Game development with Godot and C#.
+- Using Docker for development environments and self-hosting.
 
+📫 __How to reach me:__
 
-![Codewars](https://github.r2v.ch/codewars?user=lyzboy&stroke=red)
+- You can connect with me on LinkedIn.
 
+⚡ __Fun fact:__
 
-### My Programming Toolkit 🛠️
+- My home server is my playground for testing new deployments and self-hosting cool services!
 
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+__My Tech Stack__ 🛠️
+__Languages & Core Technologies:__
 
+<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </p>
+
+__Frontend & Backend:__
+
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> </p>
+
+__Databases & Tools:__
+
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Godot_Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </p>
