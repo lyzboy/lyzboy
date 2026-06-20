@@ -1,12 +1,12 @@
 # Hi there, I'm Josh! 👋 (@lyzboy)
 I'm a Full Stack Developer with a passion for creating robust web applications and immersive game experiences under the banner of __Lyz Studios__. My expertise lies in the __PERN stack__ (PostgreSQL, Express, React, Node.js) and __Next.js__, but I'm also deeply involved in game development with __Godot__ and __C#__.
 
-When I'm not coding, I enjoy 3D modeling, managing my home server, and running Dungeons & Dragons campaigns.
+When I'm not coding, I enjoy 3D modeling, managing my home server, and enjoying my family.
 
 🔭 __I’m currently working on:__
 
-- Developing "Rigs", an ambitious game built with the Godot engine.
-- Building a full-featured personal budgeting web application.
+- Developing "Project Wild", an ambitious game built with the Godot engine.
+- Building a full-featured personal portfolio and development diary web application.
 - Creating and managing a website for the Rivers Karate dojo.
 
 🌱 __I’m currently learning:__
